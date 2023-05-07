@@ -16,6 +16,6 @@
 
 * The program writes the reversed audio data to the output file.
 
-The program frees the memory allocated for the buffer.
+* The program frees the memory allocated for the buffer.
 
 Overall, the program reverses the audio data by iterating over each sample, swapping the bytes representing the audio data, and then writing the reversed audio data to the output file.
